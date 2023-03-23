@@ -8,7 +8,6 @@ import './Search.css'
 import RecipeList from '../../components/RecipeList'
 
 
-
 export default function Search() {
   const queryString = useLocation().search
   const queryParams = new URLSearchParams(queryString)
