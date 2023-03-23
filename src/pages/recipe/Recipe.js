@@ -1,8 +1,5 @@
 import { useParams } from 'react-router-dom'
 
-
-
-
 // styles
 import './Recipe.css'
 
